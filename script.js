@@ -60,6 +60,20 @@ if(nome == "João" && idade == 16) {
 
 
 //obejct feito sozinho
-var myObject = {tipo: "moto", marca: "harley devidsom", ano: "2009"};
+// var myObject = {tipo: "moto", marca: "harley devidsom", ano: "2009"};
 
-alert(myObject.ano);
+// alert(myObject.ano);
+
+
+// fazendo o famoso se não.
+var idade = 18;
+
+    if(idade >= 18) {
+        alert("Pode entrar!");
+    } else{
+        alert("Não pode entrar pois não tem 18 anos.");
+    }
+
+    
+
+
